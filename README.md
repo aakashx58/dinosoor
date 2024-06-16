@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ## Screenshot
-<img height="400" src="https://github.com/aakashx58/billionaire_app/assets/106716824/82b765ef-66ed-4153-9d1a-8df45f36414b">
+<img height="400" src="https://github.com/aakashx58/dinosoor/assets/106716824/4012a444-0bae-4db0-9848-48eb10bb2771">
 
 A few resources to get you started if this is your first Flutter project:
 
